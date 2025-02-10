@@ -92,10 +92,15 @@ Follow the steps in the notebook to:
 The Jupyter notebook ("2. NLP - language models.ipynb") contains the following sections:
 
 🔹 Loading the Corpus: Loading and preprocessing the text data.
+
 🔹 Tokenization: Splitting the text into sentences and words.
+
 🔹 N-gram Generation: Creating n-grams from the tokenized text.
+
 🔹 Language Model Training: Training the MLE model.
+
 🔹 Text Generation: Generating new text using the trained model.
+
 🔹 Probability Calculation: Calculating the probability of words occurring in the text.
 
 
