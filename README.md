@@ -6,6 +6,7 @@ Again, a shoutout: as a huge literature nerd, I just had to work with a masterpi
 
 📝 NLP Language Model Project
 
+
 📌 Table of Contents
 
 📖 Introduction
@@ -22,9 +23,11 @@ Again, a shoutout: as a huge literature nerd, I just had to work with a masterpi
 
 📜 License
 
+
 📖 Introduction
 
 The goal of this project is to demonstrate how to build and train language models using the NLTK library. The models can predict the probability of a word occurring in a given context, which is useful for various NLP tasks such as text generation, autocompletion, and more.
+
 
 ✨ Features
 
@@ -32,6 +35,7 @@ The goal of this project is to demonstrate how to build and train language model
 ✅ N-gram Generation: Creating n-grams (bigrams, trigrams, etc.) from the tokenized text.
 ✅ Language Model Training: Training a Maximum Likelihood Estimation (MLE) model to predict word probabilities.
 ✅ Text Generation: Generating new text based on the trained model.
+
 
 ⚙️ Installation
 
@@ -49,6 +53,7 @@ Edit
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
+
 
 🚀 Usage
 
@@ -72,6 +77,7 @@ Follow the steps in the notebook to:
 ✅ Train the language model.
 ✅ Generate text and calculate word probabilities.
 
+
 📒 Notebook Overview
 
 The Jupyter notebook ("2. NLP - language models.ipynb") contains the following sections:
@@ -83,9 +89,11 @@ The Jupyter notebook ("2. NLP - language models.ipynb") contains the following s
 🔹 Text Generation: Generating new text using the trained model.
 🔹 Probability Calculation: Calculating the probability of words occurring in the text.
 
+
 🤝 Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
+
 
 📜 License
 
