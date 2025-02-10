@@ -32,9 +32,13 @@ The goal of this project is to demonstrate how to build and train language model
 ✨ Features
 
 ✅ Tokenization: Splitting text into individual words or sentences.
+
 ✅ N-gram Generation: Creating n-grams (bigrams, trigrams, etc.) from the tokenized text.
+
 ✅ Language Model Training: Training a Maximum Likelihood Estimation (MLE) model to predict word probabilities.
+
 ✅ Text Generation: Generating new text based on the trained model.
+
 
 
 ⚙️ Installation
@@ -71,10 +75,15 @@ Copy
 Edit
 jupyter notebook "2. NLP - language models.ipynb"
 Follow the steps in the notebook to:
+
 ✅ Load and preprocess the text corpus.
+
 ✅ Tokenize the text.
+
 ✅ Generate n-grams.
+
 ✅ Train the language model.
+
 ✅ Generate text and calculate word probabilities.
 
 
